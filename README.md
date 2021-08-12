@@ -1,3 +1,3 @@
 # Quiz-App
 
-React and Springboot based apps used to create polls.
+React and Springboot based app used to create polls.
